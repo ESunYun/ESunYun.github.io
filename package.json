@@ -1,0 +1,20 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack src/app.js bundle.js --progress --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESunYun/ESunYun.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESunYun/ESunYun.github.io/issues"
+  },
+  "homepage": "https://github.com/ESunYun/ESunYun.github.io#readme"
+}

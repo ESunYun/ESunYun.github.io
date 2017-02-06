@@ -11,5 +11,3 @@
 
 # npm test
 # npm start
-
-#https://raw.githubusercontent.com/suhokim2/suhokim2.github.com/master/data.json
